@@ -1,0 +1,4 @@
+#git=git://anongit.freedesktop.org/xorg/proto/dri3proto
+version=3
+http://xorg.freedesktop.org/releases/individual/proto/ dri3proto-(.*)\.tar\.gz
+

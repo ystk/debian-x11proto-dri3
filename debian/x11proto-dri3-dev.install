@@ -1,0 +1,3 @@
+usr/include
+usr/lib/pkgconfig usr/share
+usr/share/doc/dri3proto/* usr/share/doc/x11proto-dri3-dev
